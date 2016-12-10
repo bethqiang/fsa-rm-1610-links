@@ -8,7 +8,7 @@ A collection of fun and interesting programming-related links, curated by Fullst
 * [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, the person who created Redux.
 * [Building React Applications with Idiomatic Redux)[https://egghead.io/courses/building-react-applications-with-idiomatic-redux] also by Dan Abramov. Kind of like part 2, or, how to use React and Redux together effectively.
 
---
+---
 
 ## Code Style
 
@@ -26,13 +26,13 @@ A collection of fun and interesting programming-related links, curated by Fullst
 ## Conference Playlists
 
 * [Node.js Interactive North America 2016](https://www.youtube.com/playlist?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)
-* [React.js Conf 2016rea](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
+* [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 
 ---
 
 ## Augmented Reality & Virtual Reality
 
-* This is [Google Daydream View](https://www.youtube.com/watch?v=AX9ZQqqoMzo&feature=youtu.be). An overview of the Google Daydream.
+* [This is Google Daydream View](https://www.youtube.com/watch?v=AX9ZQqqoMzo&feature=youtu.be). An overview of the Google Daydream.
 * [RiftSketch: Live coding in VR with the Oculus Rift, Firefox WebVR, JavaScript and Three.js](https://www.youtube.com/watch?v=db-7J5OaSag)
 
 ---
