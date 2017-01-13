@@ -4,25 +4,9 @@ A collection of fun, interesting, and educational programming-related links, cur
 
 ---
 
-## React & Redux
-
-* [Curated tutorial and resource links on React, Redux, ES6, and related topics](https://github.com/markerikson/react-redux-links)
-* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, the person who created Redux.
-* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) also by Dan Abramov. Kind of like part 2, or, how to use React and Redux together effectively.
-* [Rally Coding](http://rallycoding.com/). Weekly webcasts on React, Redux, and JavaScript.
-
----
-
 ## Code Style
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-
----
-
-## Security
-
-* [Web Security Fundamentals Video Training Course](https://info.varonis.com/web-security-fundamentals) by Troy Hunt, Microsoft MVP for Developer Security. 1 hour course in exchange for your email address. If you're in any way responsible with information systems that touch the web, this course will give you an in-depth look at the top 5 risks you should be aware of and how to combat them.
-* [Writing Secure Node Code: Understanding and Avoiding the Most Common Node.js Security Mistakes](https://youtu.be/QSMbk2nLTBk?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8) by Guy Podjarny, Snyk. Presented at Node.js Interactive North America 2016. An overview and live demo of some of Node's biggest security flaws and how you can mitigate them.
 
 ---
 
@@ -30,16 +14,7 @@ A collection of fun, interesting, and educational programming-related links, cur
 
 * [Node.js Interactive North America 2016](https://www.youtube.com/playlist?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)
 * [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
-* [Oculus Connect 3 - 2016 - Developer Sessions](https://www.youtube.com/playlist?list=PLL2xVXGs1SP7RjXUBwur43flR7tRcbYLD).
-
----
-
-## Augmented Reality & Virtual Reality
-
-* [This is Google Daydream View](https://www.youtube.com/watch?v=AX9ZQqqoMzo&feature=youtu.be). An overview of the Google Daydream.
-* [RiftSketch: Live coding in VR with the Oculus Rift, Firefox WebVR, JavaScript and Three.js](https://www.youtube.com/watch?v=db-7J5OaSag)
-* [Becoming a Virtual Reality Designer: Lessons from a VR Intern at Facebook](https://medium.com/facebook-design/becoming-a-virtual-reality-designer-9dcf6ddea4c3#.y3387lodt)
-* [Intro to WebGL with three.js](https://github.com/alexmackey/IntroToWebGLWithThreeJS). A workshop tutorial created for Melbourne CampJS 2014 covering three.js basics including lighting, basic shapes, mouse projections, collision detection, and physics.
+* [Oculus Connect 3 - 2016 - Developer Sessions](https://www.youtube.com/playlist?list=PLL2xVXGs1SP7RjXUBwur43flR7tRcbYLD)
 
 ---
 
@@ -51,15 +26,47 @@ A collection of fun, interesting, and educational programming-related links, cur
 
 ---
 
+## Entreprenurial Pursuits
+
+* [Indie Hackers](https://www.indiehackers.com/businesses). A site that features devs that have successfully bootstrapped side projects that generate revenue.
+
+---
+
+## Git
+
+* [Ry's Git Tutorial](http://www.e-booksdirectory.com/details.php?ebook=10319) by Ryan Hodson. A complete introduction to distributed version control with a focus on practical command line usage. We explain Git's robust branching, merging, and collaboration capabilities from the ground up.
+* [Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/). This tutorial will take a conceptual approach to Git. The goal is, first and foremost, to explain the Git universe and its objectives, and secondarily to illustrate how to use Git commands to manipulate that universe.
+
+---
+
 ## Job Prep & Career Resources
 
 * [Google Interview University](https://github.com/jwasham/google-interview-university). One man's multi-month study plan for going from self-taught web developer to Google software engineer.
 
 ---
 
-## Entreprenurial Pursuits
+## React & Redux
 
-* [Indie Hackers](https://www.indiehackers.com/businesses). A site that features devs that have successfully bootstrapped side projects that generate revenue.
+* [Curated tutorial and resource links on React, Redux, ES6, and related topics](https://github.com/markerikson/react-redux-links)
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) by Dan Abramov, the person who created Redux.
+* [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) also by Dan Abramov. Kind of like part 2, or, how to use React and Redux together effectively.
+* [Rally Coding](http://rallycoding.com/). Weekly webcasts on React, Redux, and JavaScript.
+
+---
+
+## Security
+
+* [Web Security Fundamentals Video Training Course](https://info.varonis.com/web-security-fundamentals) by Troy Hunt, Microsoft MVP for Developer Security. 1 hour course in exchange for your email address. If you're in any way responsible with information systems that touch the web, this course will give you an in-depth look at the top 5 risks you should be aware of and how to combat them.
+* [Writing Secure Node Code: Understanding and Avoiding the Most Common Node.js Security Mistakes](https://youtu.be/QSMbk2nLTBk?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8) by Guy Podjarny, Snyk. Presented at Node.js Interactive North America 2016. An overview and live demo of some of Node's biggest security flaws and how you can mitigate them.
+
+---
+
+## Virtual Reality & Augmented Reality & Mixed Reality
+
+* [This is Google Daydream View](https://www.youtube.com/watch?v=AX9ZQqqoMzo&feature=youtu.be). An overview of the Google Daydream.
+* [RiftSketch: Live coding in VR with the Oculus Rift, Firefox WebVR, JavaScript and Three.js](https://www.youtube.com/watch?v=db-7J5OaSag)
+* [Becoming a Virtual Reality Designer: Lessons from a VR Intern at Facebook](https://medium.com/facebook-design/becoming-a-virtual-reality-designer-9dcf6ddea4c3#.y3387lodt)
+* [Intro to WebGL with three.js](https://github.com/alexmackey/IntroToWebGLWithThreeJS). A workshop tutorial created for Melbourne CampJS 2014 covering three.js basics including lighting, basic shapes, mouse projections, collision detection, and physics.
 
 ---
 
